@@ -49,6 +49,10 @@ There is a function for merging different datasets at tools.py.
 The Shannon index can be calculated at [this colab](https://colab.research.google.com/drive/173-f8rWrk6lSEkY2dA3Q5HzwqHL9LFeL).
 
 
+# Contact us
+
+Oshrit Shtossel - [my mail](oshritvig@gmail.com)
+
 
     
     
