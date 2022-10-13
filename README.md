@@ -51,7 +51,7 @@ The Shannon index can be calculated at [this colab](https://colab.research.googl
 
 # Contact us
 
-Oshrit Shtossel - [my mail](oshritvig@gmail.com)
+Oshrit Shtossel - oshritvig@gmail.com
 
 
     
