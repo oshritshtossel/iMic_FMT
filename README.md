@@ -49,6 +49,10 @@ There is a function for merging different datasets at tools.py.
 The Shannon index can be calculated at [this colab](https://colab.research.google.com/drive/173-f8rWrk6lSEkY2dA3Q5HzwqHL9LFeL).
 
 
+## Running a trained version of iMic
+Note there is an option to run a trained version of iMic on the Shannon of the human to human cohort. By getting the weights from [this Drive](https://drive.google.com/file/d/1FIDy8uUBdv9Alj-xTe9Brkl5_QGBwamc/view?usp=sharing) and uploading the files of the mapping, the image of donors, the donors' Shannon and outcome data. The code for applying the model can be found at "run_trained_model.py".
+
+
 # Contact us
 
 Oshrit Shtossel - oshritvig@gmail.com
