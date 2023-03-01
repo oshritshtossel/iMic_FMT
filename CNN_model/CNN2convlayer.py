@@ -45,7 +45,7 @@ class CNN(SuperModel):
         # 2 if alpha_donors isnot None
         # 5 if meta_is not none
 
-        conv_out_dim = int(cos[0] * cos[1] * params["channels_2"]) + 5 + (1 if "masking" in params and params[
+        conv_out_dim = int(cos[0] * cos[1] * params["channels_2"]) + 2 + (1 if "masking" in params and params[
             "masking"] == True else 0)
 
         self.lin = nn.Sequential(
